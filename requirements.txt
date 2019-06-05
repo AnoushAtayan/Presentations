@@ -1,0 +1,10 @@
+opencv-python==3.2.0.6
+jupyter
+matplotlib
+pandas
+numpy
+scipy
+tqdm
+scikit-learn
+scikit-image
+seaborn
