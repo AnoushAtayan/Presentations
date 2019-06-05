@@ -1,1 +1,11 @@
-.ipynb_checkpoints
+*.pyc
+*.sw[op]
+.cache/
+*.*.log*
+*.log*
+*logs.txt
+.idea/
+.ipynb_checkpoints/
+*venv/
+*tmp/
+*coverage
